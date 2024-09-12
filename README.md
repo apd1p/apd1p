@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apd1p
 - 👀 I’m interested in automitive and electronics but not limited to it.
 - 🌱 I’m currently learning coding electronics.
-- 💞️ I’m looking to collaborate on ESP32 & ATtiny 3224 based.
+- 💞️ I’m looking to collaborate on ESP32 & ATtiny 3224 based projects.
 - 📫 Reach me over email aphin.proc@outlook.com or Discord @alphasigma35
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm trying to build a time machine so I can go back and tell myself to invest in Bitcoin and Did you know that modern cars can have more lines of code than a Boeing 787?
